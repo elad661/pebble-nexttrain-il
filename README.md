@@ -39,3 +39,5 @@ The server is a simple Python3 app based on cherrypy. It has the following depen
  * requests_cache
 
 to start it simply execute `python3 server/main.py`.
+
+If you're running your own server, make sure to change `BASE_URL` in `app.js` to point to your own server instead of mine.
